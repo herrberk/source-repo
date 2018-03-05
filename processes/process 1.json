@@ -1,7 +1,11 @@
 {
-    "Name": "process 1",
-    "PrologProcedure": "\r\n#****Begin: Generated Statements***\r\n#****End: Generated Statements****\r\n\r\nSleep(1);",
-    "MetadataProcedure": "\r\n#****Begin: Generated Statements***\r\n#****End: Generated Statements****",
-    "DataProcedure": "\r\n#****Begin: Generated Statements***\r\n#****End: Generated Statements****",
-    "EpilogProcedure": "\r\n#****Begin: Generated Statements***\r\n#****End: Generated Statements****"
+  "Name":"process 1",
+  "PrologProcedure@tm1-source.link":"processes\\process 1.prolog.ti",
+  "MetadataProcedure@tm1-source.link":"processes\\process 1.metadata.ti",
+  "DataProcedure@tm1-source.link":"processes\\process 1.data.ti",
+  "EpilogProcedure@tm1-source.link":"processes\\process 1.epilog.ti",
+  "DataSource":
+  {
+    "Type":"None"
+  }
 }

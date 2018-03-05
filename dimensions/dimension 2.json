@@ -1,16 +1,8 @@
-
 {
-    "Name": "dimension 2",
-    "Hierarchies":
-    [
-        {
-            "Name": "dimension 2",
-            "Elements": 
-            [
-                {
-                    "Name": "element 2"
-                }    
-            ]
-        }    
-    ]
+  "Name":"dimension 2",
+  "DefaultHierarchy@odata.bind":"Dimensions('dimension%202')/Hierarchies('dimension%202')",
+  "Hierarchies@tm1-source.link":
+  [
+    "\\dimensions\\dimension 2.hierarchies\\dimension 2.json"
+  ]
 }
