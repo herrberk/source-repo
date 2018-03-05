@@ -1,0 +1,26 @@
+{
+  "Name":"plan_currency",
+  "Elements":
+  [
+    {
+      "Name":"JPY",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"EUR",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"USD",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"GBP",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"AUD",
+      "Type":"Numeric"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Name":"plan_controls",
+  "Elements":
+  [
+    {
+      "Name":"Data Source",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"Corporate Currency",
+      "Type":"Numeric"
+    }
+  ]
+}

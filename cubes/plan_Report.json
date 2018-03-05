@@ -1,0 +1,14 @@
+{
+  "Name":"plan_Report",
+  "Rules@tm1-source.link":"cubes\\plan_Report.rules",
+  "DrillthroughRules@tm1-source.link":"cubes\\plan_Report.drillthrough.rules",
+  "Dimensions@odata.bind":
+  [
+    "Dimensions('plan_business_unit')",
+    "Dimensions('plan_department')",
+    "Dimensions('plan_chart_of_accounts')",
+    "Dimensions('plan_exchange_rates')",
+    "Dimensions('plan_report')",
+    "Dimensions('plan_time')"
+  ]
+}

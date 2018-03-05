@@ -1,0 +1,34 @@
+{
+  "Name":"plan_report",
+  "Elements":
+  [
+    {
+      "Name":"ly budget",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"ly actual",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"budget",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"actual",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"Variance",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"ly budget v budget variance",
+      "Type":"Numeric"
+    }
+    {,
+      "Name":"ly actual v actual variance",
+      "Type":"Numeric"
+    }
+  ]
+}
