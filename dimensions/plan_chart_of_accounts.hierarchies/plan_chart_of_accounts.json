@@ -5,168 +5,168 @@
     {
       "Name":"41101",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"42201",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Revenue",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"51001",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"51003",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"COS",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"61010",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"61015",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"61030",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"61065",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"61080",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"61095",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64055",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64060",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64065",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64070",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64090",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64100",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"66005",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"66010",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"67010",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"67015",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Other Expenses",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"61060",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"61070",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"62001",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Payroll",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"63040",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Travel",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"64005",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"64020",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Depr & Amort",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"65005",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"65006",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"65015",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"65018",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"65020",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"65022",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"65035",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Adv & Marketing",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"Operating Expense",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"Net Operating Income",
       "Type":"Consolidated"
     }

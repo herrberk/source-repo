@@ -5,36 +5,36 @@
     {
       "Name":"10000",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"10100",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"10110",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"10120",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"10200",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"10210",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"10220",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"10300",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"10400",
       "Type":"Numeric"
     }

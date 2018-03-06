@@ -5,52 +5,52 @@
     {
       "Name":"AttributeFormat",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"Total",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"subtotal1",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"subtotal2",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Revenue",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"Expense",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"LevelFormat",
       "Type":"Consolidated"
-    }
-    ,{
+    },
+    {
       "Name":"0",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"1",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"2",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"3",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"4",
       "Type":"Numeric"
-    }
-    ,{
+    },
+    {
       "Name":"5",
       "Type":"Numeric"
     }
