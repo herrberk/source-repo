@@ -1,1 +1,59 @@
-\u000D\u000A#****Begin: Generated Statements***\u000D\u000A#****End: Generated Statements****\u000D\u000A\u000D\u000A#\u000D\u000A# Loop through all dimensions skipping system dimensions\u000D\u000A#\u000D\u000AvDimCount = DIMSIZ('}dimensions');\u000D\u000A\u000D\u000AvDimIndex = 1;\u000D\u000A\u000D\u000Awhile (vDimIndex <= vDimCount);\u000D\u000AvDim = DIMNM('}dimensions', vDimIndex);\u000D\u000A\u000D\u000Aif (SUBST(vDim, 1, 1) @<> '}');\u000D\u000A\u000D\u000A#\u000D\u000A# Test to see if an attribute cube exists for the current dimension\u000D\u000A#\u000D\u000AvAttrDim = '}ElementAttributes_' | vDim;\u000D\u000AvTest = TABDIM(vAttrDim,1);\u000D\u000Aif (vTest @<> '');\u000D\u000A\u000D\u000A#\u000D\u000A# Loop through all attributes in the dimension looking for attributes that have a matching language attribute\u000D\u000A# _ENGLISH or _GERMAN or _FRENCH\u000D\u000A#\u000D\u000AvAttrCount = DIMSIZ(vAttrDim);\u000D\u000AvAttrIndex = 1;\u000D\u000Awhile (vAttrIndex <= vAttrCount);\u000D\u000AvAttr = DIMNM(vAttrDim,  vAttrIndex);\u000D\u000A\u000D\u000AvFromAttr = vAttr | '_' | pLanguage;\u000D\u000AvFromExists = DIMIX(vAttrDim, vFromAttr);\u000D\u000Aif (vFromExists > 0);\u000D\u000A\u000D\u000A#\u000D\u000A# Loop through all elements in the dimension moving the attribute value from the language to the main\u000D\u000A#\u000D\u000AvEleCount = DIMSIZ(vDim);\u000D\u000AvEleIndex = 1;\u000D\u000Awhile (vEleIndex <= vEleCount);\u000D\u000AvEle = DIMNM(vDim, vEleIndex);\u000D\u000A\u000D\u000AATTRPUTS(ATTRS(vDim, vEle, vFromAttr), vDim, vEle, vAttr);\u000D\u000AvEleIndex = vEleIndex + 1;\u000D\u000Aend;\u000D\u000A\u000D\u000Aendif;\u000D\u000A\u000D\u000AvAttrIndex = vAttrIndex + 1;\u000D\u000Aend;\u000D\u000A\u000D\u000Aendif;\u000D\u000A\u000D\u000Aendif;\u000D\u000A\u000D\u000AvDimIndex = vDimIndex + 1;\u000D\u000Aend;
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+#
+# Loop through all dimensions skipping system dimensions
+#
+vDimCount = DIMSIZ('}dimensions');
+
+vDimIndex = 1;
+
+while (vDimIndex <= vDimCount);
+vDim = DIMNM('}dimensions', vDimIndex);
+
+if (SUBST(vDim, 1, 1) @<> '}');
+
+#
+# Test to see if an attribute cube exists for the current dimension
+#
+vAttrDim = '}ElementAttributes_' | vDim;
+vTest = TABDIM(vAttrDim,1);
+if (vTest @<> '');
+
+#
+# Loop through all attributes in the dimension looking for attributes that have a matching language attribute
+# _ENGLISH or _GERMAN or _FRENCH
+#
+vAttrCount = DIMSIZ(vAttrDim);
+vAttrIndex = 1;
+while (vAttrIndex <= vAttrCount);
+vAttr = DIMNM(vAttrDim,  vAttrIndex);
+
+vFromAttr = vAttr | '_' | pLanguage;
+vFromExists = DIMIX(vAttrDim, vFromAttr);
+if (vFromExists > 0);
+
+#
+# Loop through all elements in the dimension moving the attribute value from the language to the main
+#
+vEleCount = DIMSIZ(vDim);
+vEleIndex = 1;
+while (vEleIndex <= vEleCount);
+vEle = DIMNM(vDim, vEleIndex);
+
+ATTRPUTS(ATTRS(vDim, vEle, vFromAttr), vDim, vEle, vAttr);
+vEleIndex = vEleIndex + 1;
+end;
+
+endif;
+
+vAttrIndex = vAttrIndex + 1;
+end;
+
+endif;
+
+endif;
+
+vDimIndex = vDimIndex + 1;
+end;
