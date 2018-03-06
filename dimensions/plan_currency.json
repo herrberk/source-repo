@@ -3,6 +3,6 @@
   "DefaultHierarchy@odata.bind":"Dimensions('plan_currency')/Hierarchies('plan_currency')",
   "Hierarchies@tm1-source.link":
   [
-    "\dimensions\plan_currency.hierarchies\plan_currency.json"
+    "\\dimensions\\plan_currency.hierarchies\\plan_currency.json"
   ]
 }

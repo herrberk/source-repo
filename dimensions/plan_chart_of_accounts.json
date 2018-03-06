@@ -3,6 +3,6 @@
   "DefaultHierarchy@odata.bind":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')",
   "Hierarchies@tm1-source.link":
   [
-    "\dimensions\plan_chart_of_accounts.hierarchies\plan_chart_of_accounts.json"
+    "\\dimensions\\plan_chart_of_accounts.hierarchies\\plan_chart_of_accounts.json"
   ]
 }

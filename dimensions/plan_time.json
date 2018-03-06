@@ -3,6 +3,6 @@
   "DefaultHierarchy@odata.bind":"Dimensions('plan_time')/Hierarchies('plan_time')",
   "Hierarchies@tm1-source.link":
   [
-    "\dimensions\plan_time.hierarchies\plan_time.json"
+    "\\dimensions\\plan_time.hierarchies\\plan_time.json"
   ]
 }

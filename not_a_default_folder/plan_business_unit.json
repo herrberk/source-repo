@@ -3,6 +3,6 @@
   "DefaultHierarchy@odata.bind":"Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')",
   "Hierarchies@tm1-source.link":
   [
-    "\not_a_default_folder\plan_business_unit.hierarchies\plan_business_unit.json"
+    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.json"
   ]
 }

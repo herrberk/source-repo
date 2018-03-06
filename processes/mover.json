@@ -1,9 +1,9 @@
 {
   "Name":"mover",
-  "PrologProcedure@tm1-source.link":"processes\mover.prolog.ti",
-  "MetadataProcedure@tm1-source.link":"processes\mover.metadata.ti",
-  "DataProcedure@tm1-source.link":"processes\mover.data.ti",
-  "EpilogProcedure@tm1-source.link":"processes\mover.epilog.ti",
+  "PrologProcedure@tm1-source.link":"processes\\mover.prolog.ti",
+  "MetadataProcedure@tm1-source.link":"processes\\mover.metadata.ti",
+  "DataProcedure@tm1-source.link":"processes\\mover.data.ti",
+  "EpilogProcedure@tm1-source.link":"processes\\mover.epilog.ti",
   "DataSource":
   {
     "Type":"TM1CubeView",

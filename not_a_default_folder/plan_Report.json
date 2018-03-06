@@ -1,7 +1,7 @@
 {
   "Name":"plan_Report",
-  "Rules@tm1-source.link":"not_a_default_folder\plan_Report.rules",
-  "DrillthroughRules@tm1-source.link":"not_a_default_folder\plan_Report.drillthrough.rules",
+  "Rules@tm1-source.link":"not_a_default_folder\\plan_Report.rules",
+  "DrillthroughRules@tm1-source.link":"not_a_default_folder\\plan_Report.drillthrough.rules",
   "Dimensions@odata.bind":
   [
     "Dimensions('plan_business_unit')",
