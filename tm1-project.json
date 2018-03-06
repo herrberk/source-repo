@@ -29,21 +29,21 @@
         {
             "Dependencies": 
             [ 
-                "Cube('plan_ExchangeRate')"
+                "Cubes('plan_ExchangeRate')"
             ]
         },
         "Cubes('plan_BudgetPlan')":
         {
             "Dependencies": 
             [ 
-                "Cube('plan_BudgetPlanLineItem')"
+                "Cubes('plan_BudgetPlanLineItem')"
             ]
         },
         "Cubes('plan_ExchangeRate')":
         {
             "Dependencies": 
             [ 
-                "Cube('plan_Control')"
+                "Cubes('plan_Control')"
             ]
         },
         "Cubes('plan_Report')": 
