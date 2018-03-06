@@ -6,39 +6,39 @@
       "Name":"goal",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"budget",
       "Type":"Consolidated"
     }
-    {,
+    {
       "Name":"COS (future)",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"depreciation (future)",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"payroll (future)",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"revenue (future)",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"other expense (future)",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"allocations (future)",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"input",
       "Type":"Numeric"
     }
-    {,
+    {
       "Name":"line input",
       "Type":"Numeric"
     }
