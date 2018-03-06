@@ -25,25 +25,11 @@
     },
     "Objects": 
     {
-        "Cubes('plan_BudgetPlanLineItem')":
-        {
-            "Dependencies": 
-            [ 
-                "Cubes('plan_ExchangeRate')"
-            ]
-        },
         "Cubes('plan_BudgetPlan')":
         {
             "Dependencies": 
             [ 
-                "Cubes('plan_BudgetPlanLineItem')"
-            ]
-        },
-        "Cubes('plan_ExchangeRate')":
-        {
-            "Dependencies": 
-            [ 
-                "Cubes('plan_Control')"
+                "Tasks('task 3')"
             ]
         },
         "Cubes('plan_Report')": 
@@ -51,7 +37,7 @@
             "Link": "/not_a_default_folder/plan_Report.json",
             "Dependencies": 
             [ 
-                "Cubes('plan_ExchangeRate')",
+                "Cubes('plan_BudgetPlan')",
                 "Tasks('task 2')"
             ]
         }
