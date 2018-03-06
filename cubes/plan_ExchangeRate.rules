@@ -1,1 +1,1 @@
-skipcheck;\\n\\n['local']=1;\\n\\n[]=IF(!plan_currency @= DB('plan_Control','Corporate Currency','Setting'),1, STET);\\n
+skipcheck;\u000A\u000A['local']=1;\u000A\u000A[]=IF(!plan_currency @= DB('plan_Control','Corporate Currency','Setting'),1, STET);\u000A

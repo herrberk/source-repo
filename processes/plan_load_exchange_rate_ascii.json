@@ -1,9 +1,9 @@
 {
   "Name":"plan_load_exchange_rate_ascii",
-  "PrologProcedure@tm1-source.link":"processes\\plan_load_exchange_rate_ascii.prolog.ti",
-  "MetadataProcedure@tm1-source.link":"processes\\plan_load_exchange_rate_ascii.metadata.ti",
-  "DataProcedure@tm1-source.link":"processes\\plan_load_exchange_rate_ascii.data.ti",
-  "EpilogProcedure@tm1-source.link":"processes\\plan_load_exchange_rate_ascii.epilog.ti",
+  "PrologProcedure@tm1-source.link":"processes\plan_load_exchange_rate_ascii.prolog.ti",
+  "MetadataProcedure@tm1-source.link":"processes\plan_load_exchange_rate_ascii.metadata.ti",
+  "DataProcedure@tm1-source.link":"processes\plan_load_exchange_rate_ascii.data.ti",
+  "EpilogProcedure@tm1-source.link":"processes\plan_load_exchange_rate_ascii.epilog.ti",
   "DataSource":
   {
     "Type":"ASCII",
@@ -11,9 +11,9 @@
     "asciiDelimiterChar":",",
     "asciiDelimiterType":"Character",
     "asciiHeaderRecords":0,
-    "asciiQuoteCharacter":"\"",
+    "asciiQuoteCharacter":""",
     "asciiThousandSeparator":",",
-    "dataSourceNameForClient":".\\data_load\\exchange_rates\\plan_load_exchange_rate.cma",
-    "dataSourceNameForServer":".\\data_load\\exchange_rates\\plan_load_exchange_rate.cma"
+    "dataSourceNameForClient":".\data_load\exchange_rates\plan_load_exchange_rate.cma",
+    "dataSourceNameForServer":".\data_load\exchange_rates\plan_load_exchange_rate.cma"
   }
 }

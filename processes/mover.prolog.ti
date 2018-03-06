@@ -1,1 +1,1 @@
-#****Begin: Generated Statements***\\r\\nOldCubeLogChanges = CUBEGETLOGCHANGES('plan_BudgetPlan');\\r\\nCUBESETLOGCHANGES('plan_BudgetPlan', 0);\\r\\n#****End: Generated Statements****
+#****Begin: Generated Statements***\u000D\u000AOldCubeLogChanges = CUBEGETLOGCHANGES('plan_BudgetPlan');\u000D\u000ACUBESETLOGCHANGES('plan_BudgetPlan', 0);\u000D\u000A#****End: Generated Statements****

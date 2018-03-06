@@ -32,6 +32,10 @@
                 "Tasks('task 3')"
             ]
         },
+        "Dimensions('plan_business_unit')":
+        {
+            "Link": "/not_a_default_folder/plan_business_unit.json"
+        },
         "Cubes('plan_Report')": 
         {
             "Link": "/not_a_default_folder/plan_Report.json",

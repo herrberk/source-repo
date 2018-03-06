@@ -1,7 +1,7 @@
 {
   "Name":"plan_BudgetPlan",
-  "Rules@tm1-source.link":"cubes\\plan_BudgetPlan.rules",
-  "DrillthroughRules@tm1-source.link":"cubes\\plan_BudgetPlan.drillthrough.rules",
+  "Rules@tm1-source.link":"cubes\plan_BudgetPlan.rules",
+  "DrillthroughRules@tm1-source.link":"cubes\plan_BudgetPlan.drillthrough.rules",
   "Dimensions@odata.bind":
   [
     "Dimensions('plan_version')",

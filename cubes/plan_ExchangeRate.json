@@ -1,6 +1,6 @@
 {
   "Name":"plan_ExchangeRate",
-  "Rules@tm1-source.link":"cubes\\plan_ExchangeRate.rules",
+  "Rules@tm1-source.link":"cubes\plan_ExchangeRate.rules",
   "Dimensions@odata.bind":
   [
     "Dimensions('plan_currency')",

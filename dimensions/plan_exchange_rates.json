@@ -3,6 +3,6 @@
   "DefaultHierarchy@odata.bind":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')",
   "Hierarchies@tm1-source.link":
   [
-    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.json"
+    "\dimensions\plan_exchange_rates.hierarchies\plan_exchange_rates.json"
   ]
 }
