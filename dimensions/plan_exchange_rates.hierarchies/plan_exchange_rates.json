@@ -26,5 +26,14 @@
       "Name":"actual",
       "Type":"Numeric"
     }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\actual.json",
+    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\All Exchange Rates.json",
+    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\All rates.json",
+    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\local.json",
+    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\local exchange rate.json",
+    "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\plan exchange rates not local.json"
   ]
 }

@@ -30,5 +30,16 @@
       "Name":"ly actual v actual variance",
       "Type":"Numeric"
     }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\actual.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\AllReports.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\budget.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\Budget,LYBudget,LYActuals.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\ly actual.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\ly budget.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\plan_exec_report.json",
+    "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\variance analysis.json"
   ]
 }

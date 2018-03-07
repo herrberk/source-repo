@@ -1,0 +1,5 @@
+{
+  "Name":"plan_budget_accts_reverse",
+  "Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [plan_chart_of_accounts] )} ) }",
+  "Alias":"AccountName"
+}

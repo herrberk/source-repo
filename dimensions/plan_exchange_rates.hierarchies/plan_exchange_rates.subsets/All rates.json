@@ -1,0 +1,13 @@
+{
+  "Name":"All rates",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('local')",
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('beginning')",
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('ending')",
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('planning')",
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('spot')",
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('actual')"
+  ],
+  "Alias":""
+}

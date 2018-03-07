@@ -1,0 +1,8 @@
+{
+  "Name":"Goal",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')"
+  ],
+  "Alias":"Source"
+}

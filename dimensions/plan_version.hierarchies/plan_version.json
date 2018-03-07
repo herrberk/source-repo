@@ -22,5 +22,11 @@
       "Name":"FY 2005 Budget-upside",
       "Type":"Numeric"
     }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\All Versions.json",
+    "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\Default.json",
+    "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\FY 2004 Budget.json"
   ]
 }

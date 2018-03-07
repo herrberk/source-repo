@@ -1,0 +1,10 @@
+{
+  "Name":"Adjust Line Goal",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')",
+    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('line input')",
+    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
+  ],
+  "Alias":"Source"
+}

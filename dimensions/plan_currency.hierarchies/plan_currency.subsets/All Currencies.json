@@ -1,0 +1,5 @@
+{
+  "Name":"All Currencies",
+  "Expression":"TM1SubsetAll([plan_currency])",
+  "Alias":"CurrencyName"
+}

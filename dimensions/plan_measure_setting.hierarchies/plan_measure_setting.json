@@ -6,5 +6,9 @@
       "Name":"Setting",
       "Type":"String"
     }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_measure_setting.hierarchies\\plan_measure_setting.subsets\\Default.json"
   ]
 }

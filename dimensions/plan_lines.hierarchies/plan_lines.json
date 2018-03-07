@@ -26,5 +26,39 @@
       "Name":"All Lines",
       "Type":"Consolidated"
     }
+  ],
+  "Edges":
+  [
+    {
+      "ParentName":"All Lines",
+      "ComponentName":"line 1",
+      "Weight":1
+    },
+    {
+      "ParentName":"All Lines",
+      "ComponentName":"line 2",
+      "Weight":1
+    },
+    {
+      "ParentName":"All Lines",
+      "ComponentName":"line 3",
+      "Weight":1
+    },
+    {
+      "ParentName":"All Lines",
+      "ComponentName":"line 4",
+      "Weight":1
+    },
+    {
+      "ParentName":"All Lines",
+      "ComponentName":"line 5",
+      "Weight":1
+    }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_lines.hierarchies\\plan_lines.subsets\\Default.json",
+    "\\dimensions\\plan_lines.hierarchies\\plan_lines.subsets\\lines.json",
+    "\\dimensions\\plan_lines.hierarchies\\plan_lines.subsets\\TotalLines.json"
   ]
 }

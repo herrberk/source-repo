@@ -1,0 +1,16 @@
+{
+  "Name":"Consolidations",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Net Operating Income')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Operating Expense')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Other Expenses')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Payroll')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Travel')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Depr & Amort')",
+    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Adv & Marketing')"
+  ],
+  "Alias":"AccountName"
+}

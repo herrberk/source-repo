@@ -22,5 +22,11 @@
       "Name":"AUD",
       "Type":"Numeric"
     }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_currency.hierarchies\\plan_currency.subsets\\All Currencies.json",
+    "\\dimensions\\plan_currency.hierarchies\\plan_currency.subsets\\All Currency.json",
+    "\\dimensions\\plan_currency.hierarchies\\plan_currency.subsets\\All Currency Rows.json"
   ]
 }

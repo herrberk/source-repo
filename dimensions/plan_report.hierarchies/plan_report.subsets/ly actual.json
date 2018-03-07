@@ -1,0 +1,8 @@
+{
+  "Name":"ly actual",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')"
+  ],
+  "Alias":""
+}

@@ -1,0 +1,8 @@
+{
+  "Name":"TotalLines",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('All Lines')"
+  ],
+  "Alias":""
+}

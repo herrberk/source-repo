@@ -1,0 +1,10 @@
+{
+  "Name":"plan_exec_report",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly budget')",
+    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')",
+    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')"
+  ],
+  "Alias":"Report"
+}

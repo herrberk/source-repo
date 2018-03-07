@@ -10,5 +10,9 @@
       "Name":"Corporate Currency",
       "Type":"Numeric"
     }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_controls.hierarchies\\plan_controls.subsets\\Default.json"
   ]
 }

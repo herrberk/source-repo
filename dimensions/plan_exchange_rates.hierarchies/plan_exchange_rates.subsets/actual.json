@@ -1,0 +1,8 @@
+{
+  "Name":"actual",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('actual')"
+  ],
+  "Alias":""
+}

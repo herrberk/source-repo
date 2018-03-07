@@ -38,5 +38,55 @@
       "Name":"10400",
       "Type":"Numeric"
     }
+  ],
+  "Edges":
+  [
+    {
+      "ParentName":"10000",
+      "ComponentName":"10100",
+      "Weight":1
+    },
+    {
+      "ParentName":"10000",
+      "ComponentName":"10200",
+      "Weight":1
+    },
+    {
+      "ParentName":"10000",
+      "ComponentName":"10300",
+      "Weight":1
+    },
+    {
+      "ParentName":"10000",
+      "ComponentName":"10400",
+      "Weight":1
+    },
+    {
+      "ParentName":"10100",
+      "ComponentName":"10110",
+      "Weight":1
+    },
+    {
+      "ParentName":"10100",
+      "ComponentName":"10120",
+      "Weight":1
+    },
+    {
+      "ParentName":"10200",
+      "ComponentName":"10210",
+      "Weight":1
+    },
+    {
+      "ParentName":"10200",
+      "ComponentName":"10220",
+      "Weight":1
+    }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\All Business Units.json",
+    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\Default.json",
+    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\n level business unit.json",
+    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\TotalBU and Geography.json"
   ]
 }

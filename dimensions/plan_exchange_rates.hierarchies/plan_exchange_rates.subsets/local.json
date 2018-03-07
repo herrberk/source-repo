@@ -1,0 +1,8 @@
+{
+  "Name":"local",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('local')"
+  ],
+  "Alias":""
+}

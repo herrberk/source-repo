@@ -46,5 +46,65 @@
       "Name":"415",
       "Type":"Numeric"
     }
+  ],
+  "Edges":
+  [
+    {
+      "ParentName":"1000",
+      "ComponentName":"100",
+      "Weight":1
+    },
+    {
+      "ParentName":"1000",
+      "ComponentName":"200",
+      "Weight":1
+    },
+    {
+      "ParentName":"1000",
+      "ComponentName":"300",
+      "Weight":1
+    },
+    {
+      "ParentName":"1000",
+      "ComponentName":"400",
+      "Weight":1
+    },
+    {
+      "ParentName":"100",
+      "ComponentName":"105",
+      "Weight":1
+    },
+    {
+      "ParentName":"100",
+      "ComponentName":"110",
+      "Weight":1
+    },
+    {
+      "ParentName":"100",
+      "ComponentName":"115",
+      "Weight":1
+    },
+    {
+      "ParentName":"400",
+      "ComponentName":"405",
+      "Weight":1
+    },
+    {
+      "ParentName":"400",
+      "ComponentName":"410",
+      "Weight":1
+    },
+    {
+      "ParentName":"400",
+      "ComponentName":"415",
+      "Weight":1
+    }
+  ],
+  "Subsets@tm1-source.link":
+  [
+    "\\dimensions\\plan_department.hierarchies\\plan_department.subsets\\All Departments.json",
+    "\\dimensions\\plan_department.hierarchies\\plan_department.subsets\\Default.json",
+    "\\dimensions\\plan_department.hierarchies\\plan_department.subsets\\Dy Nlevel Dept.json",
+    "\\dimensions\\plan_department.hierarchies\\plan_department.subsets\\n level departments.json"
   ]
 }

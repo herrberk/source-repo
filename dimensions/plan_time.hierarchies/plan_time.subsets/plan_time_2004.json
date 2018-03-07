@@ -1,0 +1,8 @@
+{
+  "Name":"plan_time_2004",
+  "Elements@odata.bind":
+  [
+    "Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2004')"
+  ],
+  "Alias":"Time"
+}
