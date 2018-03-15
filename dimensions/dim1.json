@@ -1,5 +1,5 @@
 {
-  "Name":"dim1",
+	"Name":"dim1",
   "DefaultHierarchy@odata.bind":"Dimensions('dim1')/Hierarchies('dim1')",
   "Hierarchies@tm1-source.link":
   [
