@@ -6,9 +6,6 @@
   "EpilogProcedure@tm1-source.link":"processes\\mover.epilog.ti",
   "DataSource":
   {
-    "Type":"TM1CubeView",
-    "dataSourceNameForClient":"plan_BudgetPlan",
-    "dataSourceNameForServer":"plan_BudgetPlan",
-    "view":"mover"
+    "Type":"None"
   }
 }

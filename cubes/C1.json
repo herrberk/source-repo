@@ -1,0 +1,8 @@
+{
+  "Name":"C1",
+  "Dimensions@odata.bind":
+  [
+    "Dimensions('dim1')",
+    "Dimensions('dim2')"
+  ]
+}
