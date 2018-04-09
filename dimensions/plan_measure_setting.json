@@ -1,6 +1,8 @@
 {
 	"Name":"plan_measure_setting",
-	"DefaultHierarchy@bind":"Dimensions('plan_measure_setting')/Hierarchies('plan_measure_setting')",
+	{
+		"@id":"Dimensions('plan_measure_setting')/Hierarchies('plan_measure_setting')"
+	},
 	"Hierarchies@Code.link":
 	[
 		"/dimensions/plan_measure_setting.hierarchies/plan_measure_setting.json"

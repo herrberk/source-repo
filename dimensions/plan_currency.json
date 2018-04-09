@@ -1,6 +1,8 @@
 {
 	"Name":"plan_currency",
-	"DefaultHierarchy@bind":"Dimensions('plan_currency')/Hierarchies('plan_currency')",
+	{
+		"@id":"Dimensions('plan_currency')/Hierarchies('plan_currency')"
+	},
 	"Hierarchies@Code.link":
 	[
 		"/dimensions/plan_currency.hierarchies/plan_currency.json"

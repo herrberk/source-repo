@@ -1,6 +1,8 @@
 {
 	"Name":"plan_chart_of_accounts",
-	"DefaultHierarchy@bind":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')",
+	{
+		"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')"
+	},
 	"Hierarchies@Code.link":
 	[
 		"/dimensions/plan_chart_of_accounts.hierarchies/plan_chart_of_accounts.json"

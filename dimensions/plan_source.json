@@ -1,6 +1,8 @@
 {
 	"Name":"plan_source",
-	"DefaultHierarchy@bind":"Dimensions('plan_source')/Hierarchies('plan_source')",
+	{
+		"@id":"Dimensions('plan_source')/Hierarchies('plan_source')"
+	},
 	"Hierarchies@Code.link":
 	[
 		"/dimensions/plan_source.hierarchies/plan_source.json"
