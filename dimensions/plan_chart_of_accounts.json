@@ -1,5 +1,5 @@
 {
-	"Name":"plan_chart_of_accounts",
+	"Name":"plan_chart_of_accounts","DefaultHierarchy":
 	{
 		"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')"
 	},

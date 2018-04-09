@@ -1,5 +1,5 @@
 {
-	"Name":"plan_currency",
+	"Name":"plan_currency","DefaultHierarchy":
 	{
 		"@id":"Dimensions('plan_currency')/Hierarchies('plan_currency')"
 	},

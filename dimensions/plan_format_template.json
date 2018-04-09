@@ -1,5 +1,5 @@
 {
-	"Name":"plan_format_template",
+	"Name":"plan_format_template","DefaultHierarchy":
 	{
 		"@id":"Dimensions('plan_format_template')/Hierarchies('plan_format_template')"
 	},
