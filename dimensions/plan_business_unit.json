@@ -1,5 +1,6 @@
 {
-	"Name":"plan_business_unit","DefaultHierarchy":
+	"Name":"plan_business_unit",
+	"DefaultHierarchy":
 	{
 		"@id":"Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')"
 	},

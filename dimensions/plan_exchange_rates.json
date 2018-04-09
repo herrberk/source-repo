@@ -1,5 +1,6 @@
 {
-	"Name":"plan_exchange_rates","DefaultHierarchy":
+	"Name":"plan_exchange_rates",
+	"DefaultHierarchy":
 	{
 		"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')"
 	},

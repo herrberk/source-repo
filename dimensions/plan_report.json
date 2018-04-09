@@ -1,5 +1,6 @@
 {
-	"Name":"plan_report","DefaultHierarchy":
+	"Name":"plan_report",
+	"DefaultHierarchy":
 	{
 		"@id":"Dimensions('plan_report')/Hierarchies('plan_report')"
 	},
