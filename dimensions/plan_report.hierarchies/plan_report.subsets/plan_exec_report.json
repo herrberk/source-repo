@@ -1,6 +1,6 @@
 {
 	"Name":"plan_exec_report",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly budget')",
 		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')",

@@ -1,7 +1,7 @@
 {
 	"Name":"plan_format_template",
-	"DefaultHierarchy@odata.bind":"Dimensions('plan_format_template')/Hierarchies('plan_format_template')",
-	"Hierarchies@Code.link":
+	"DefaultHierarchy@bind":"Dimensions('plan_format_template')/Hierarchies('plan_format_template')",
+	"Hierarchies@ink":
 	[
 		"/dimensions/plan_format_template.hierarchies/plan_format_template.json"
 	]

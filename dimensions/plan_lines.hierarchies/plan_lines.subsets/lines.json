@@ -1,6 +1,6 @@
 {
 	"Name":"lines",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('line 1')",
 		"Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('line 2')",

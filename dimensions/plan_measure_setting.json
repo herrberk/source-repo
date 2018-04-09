@@ -1,7 +1,7 @@
 {
 	"Name":"plan_measure_setting",
-	"DefaultHierarchy@odata.bind":"Dimensions('plan_measure_setting')/Hierarchies('plan_measure_setting')",
-	"Hierarchies@Code.link":
+	"DefaultHierarchy@bind":"Dimensions('plan_measure_setting')/Hierarchies('plan_measure_setting')",
+	"Hierarchies@ink":
 	[
 		"/dimensions/plan_measure_setting.hierarchies/plan_measure_setting.json"
 	]

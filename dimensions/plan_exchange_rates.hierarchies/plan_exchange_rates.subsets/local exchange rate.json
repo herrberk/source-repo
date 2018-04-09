@@ -1,6 +1,6 @@
 {
 	"Name":"local exchange rate",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('local')"
 	],

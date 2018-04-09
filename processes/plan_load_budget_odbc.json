@@ -1,15 +1,15 @@
 {
 	"Name":"plan_load_budget_odbc",
-	"PrologProcedure@Code.link":"/processes/plan_load_budget_odbc.prolog.ti",
-	"MetadataProcedure@Code.link":"/processes/plan_load_budget_odbc.metadata.ti",
-	"DataProcedure@Code.link":"/processes/plan_load_budget_odbc.data.ti",
-	"EpilogProcedure@Code.link":"/processes/plan_load_budget_odbc.epilog.ti",
+	"PrologProcedure@ink":"/processes/plan_load_budget_odbc.prolog.ti",
+	"MetadataProcedure@ink":"/processes/plan_load_budget_odbc.metadata.ti",
+	"DataProcedure@ink":"/processes/plan_load_budget_odbc.data.ti",
+	"EpilogProcedure@ink":"/processes/plan_load_budget_odbc.epilog.ti",
 	"DataSource":
 	{
 		"Type":"ODBC",
 		"dataSourceNameForClient":"Plan_load_data",
 		"dataSourceNameForServer":"Plan_load_data",
-		"password":"opSuZAYFcDSA9prCs6FHRA==",
+		"password":"wgRpyHoOTNJZIgTRIxT9UA==",
 		"query":"select * from plan_load_budgets",
 		"userName":"admin",
 		"usesUnicode":false

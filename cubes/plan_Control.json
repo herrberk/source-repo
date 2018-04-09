@@ -1,12 +1,12 @@
 {
 	"Name":"plan_Control",
-	"Dimensions@id":
+	"Dimensions":
 	[
 		{
-			"@odata.id":"Dimensions('plan_controls')"
+			"@id":"Dimensions('plan_controls')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_measure_setting')"
+			"@id":"Dimensions('plan_measure_setting')"
 		}
 	]
 }

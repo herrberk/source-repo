@@ -1,6 +1,6 @@
 {
 	"Name":"budget",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('budget')"
 	],

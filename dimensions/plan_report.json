@@ -1,7 +1,7 @@
 {
 	"Name":"plan_report",
-	"DefaultHierarchy@odata.bind":"Dimensions('plan_report')/Hierarchies('plan_report')",
-	"Hierarchies@Code.link":
+	"DefaultHierarchy@bind":"Dimensions('plan_report')/Hierarchies('plan_report')",
+	"Hierarchies@ink":
 	[
 		"/dimensions/plan_report.hierarchies/plan_report.json"
 	]

@@ -1,29 +1,29 @@
 {
 	"Name":"plan_BudgetPlan",
-	"Rules@Code.link":"/cubes/plan_BudgetPlan.rules",
-	"DrillthroughRules@Code.link":"/cubes/plan_BudgetPlan.drillthrough.rules",
-	"Dimensions@id":
+	"Rules@ink":"/cubes/plan_BudgetPlan.rules",
+	"DrillthroughRules@ink":"/cubes/plan_BudgetPlan.drillthrough.rules",
+	"Dimensions":
 	[
 		{
-			"@odata.id":"Dimensions('plan_version')"
+			"@id":"Dimensions('plan_version')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_business_unit')"
+			"@id":"Dimensions('plan_business_unit')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_department')"
+			"@id":"Dimensions('plan_department')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_chart_of_accounts')"
+			"@id":"Dimensions('plan_chart_of_accounts')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_exchange_rates')"
+			"@id":"Dimensions('plan_exchange_rates')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_source')"
+			"@id":"Dimensions('plan_source')"
 		},
 		{
-			"@odata.id":"Dimensions('plan_time')"
+			"@id":"Dimensions('plan_time')"
 		}
 	]
 }

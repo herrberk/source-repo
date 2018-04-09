@@ -1,6 +1,6 @@
 {
 	"Name":"2004 Total Year",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2004')"
 	],

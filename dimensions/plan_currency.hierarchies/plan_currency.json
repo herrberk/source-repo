@@ -23,7 +23,7 @@
 			"Type":"Numeric"
 		}
 	],
-	"Subsets@Code.link":
+	"Subsets@ink":
 	[
 		"/dimensions/plan_currency.hierarchies/plan_currency.subsets/All Currencies.json",
 		"/dimensions/plan_currency.hierarchies/plan_currency.subsets/All Currency.json",

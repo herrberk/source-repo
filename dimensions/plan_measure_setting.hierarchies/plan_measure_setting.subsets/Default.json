@@ -1,6 +1,6 @@
 {
 	"Name":"Default",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_measure_setting')/Hierarchies('plan_measure_setting')/Elements('Setting')"
 	],

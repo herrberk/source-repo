@@ -1,6 +1,6 @@
 {
 	"Name":"plan_time_month",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('Jan-2003')",
 		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('Feb-2003')",

@@ -1,6 +1,6 @@
 {
 	"Name":"n level departments",
-	"Elements@id":
+	"Elements":
 	[
 		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('105')",
 		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('110')",
