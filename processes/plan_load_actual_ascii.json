@@ -1,9 +1,9 @@
 {
 	"Name":"plan_load_actual_ascii",
-	"PrologProcedure@Code.link":"processes\\plan_load_actual_ascii.prolog.ti",
-	"MetadataProcedure@Code.link":"processes\\plan_load_actual_ascii.metadata.ti",
-	"DataProcedure@Code.link":"processes\\plan_load_actual_ascii.data.ti",
-	"EpilogProcedure@Code.link":"processes\\plan_load_actual_ascii.epilog.ti",
+	"PrologProcedure@Code.link":"/processes/plan_load_actual_ascii.prolog.ti",
+	"MetadataProcedure@Code.link":"/processes/plan_load_actual_ascii.metadata.ti",
+	"DataProcedure@Code.link":"/processes/plan_load_actual_ascii.data.ti",
+	"EpilogProcedure@Code.link":"/processes/plan_load_actual_ascii.epilog.ti",
 	"DataSource":
 	{
 		"Type":"ASCII",

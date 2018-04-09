@@ -1,9 +1,9 @@
 {
 	"Name":"plan_load_budget_to_report_cube",
-	"PrologProcedure@Code.link":"processes\\plan_load_budget_to_report_cube.prolog.ti",
-	"MetadataProcedure@Code.link":"processes\\plan_load_budget_to_report_cube.metadata.ti",
-	"DataProcedure@Code.link":"processes\\plan_load_budget_to_report_cube.data.ti",
-	"EpilogProcedure@Code.link":"processes\\plan_load_budget_to_report_cube.epilog.ti",
+	"PrologProcedure@Code.link":"/processes/plan_load_budget_to_report_cube.prolog.ti",
+	"MetadataProcedure@Code.link":"/processes/plan_load_budget_to_report_cube.metadata.ti",
+	"DataProcedure@Code.link":"/processes/plan_load_budget_to_report_cube.data.ti",
+	"EpilogProcedure@Code.link":"/processes/plan_load_budget_to_report_cube.epilog.ti",
 	"DataSource":
 	{
 		"Type":"TM1CubeView",

@@ -1,6 +1,6 @@
 {
 	"Name":"plan_ExchangeRate",
-	"Rules@Code.link":"cubes\\plan_ExchangeRate.rules",
+	"Rules@Code.link":"/cubes/plan_ExchangeRate.rules",
 	"Dimensions@id":
 	[
 		"Dimensions('plan_currency')",

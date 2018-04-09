@@ -1,6 +1,6 @@
 {
 	"Name":"plan_BudgetPlanLineItem",
-	"Rules@Code.link":"cubes\\plan_BudgetPlanLineItem.rules",
+	"Rules@Code.link":"/cubes/plan_BudgetPlanLineItem.rules",
 	"Dimensions@id":
 	[
 		"Dimensions('plan_version')",
