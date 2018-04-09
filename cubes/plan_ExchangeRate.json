@@ -3,8 +3,14 @@
 	"Rules@Code.link":"/cubes/plan_ExchangeRate.rules",
 	"Dimensions@id":
 	[
-		"Dimensions('plan_currency')",
-		"Dimensions('plan_exchange_rates')",
-		"Dimensions('plan_time')"
+		{
+			"@odata.id":"Dimensions('plan_currency')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_time')"
+		}
 	]
 }

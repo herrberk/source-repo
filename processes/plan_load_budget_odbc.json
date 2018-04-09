@@ -9,7 +9,7 @@
 		"Type":"ODBC",
 		"dataSourceNameForClient":"Plan_load_data",
 		"dataSourceNameForServer":"Plan_load_data",
-		"password":"A3mcrdlBfSNbNTACkc50Qg==",
+		"password":"opSuZAYFcDSA9prCs6FHRA==",
 		"query":"select * from plan_load_budgets",
 		"userName":"admin",
 		"usesUnicode":false

@@ -4,11 +4,23 @@
 	"DrillthroughRules@Code.link":"/cubes/plan_Report.drillthrough.rules",
 	"Dimensions@id":
 	[
-		"Dimensions('plan_business_unit')",
-		"Dimensions('plan_department')",
-		"Dimensions('plan_chart_of_accounts')",
-		"Dimensions('plan_exchange_rates')",
-		"Dimensions('plan_report')",
-		"Dimensions('plan_time')"
+		{
+			"@odata.id":"Dimensions('plan_business_unit')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_department')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_chart_of_accounts')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_report')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_time')"
+		}
 	]
 }

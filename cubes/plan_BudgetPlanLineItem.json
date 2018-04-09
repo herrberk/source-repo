@@ -3,12 +3,26 @@
 	"Rules@Code.link":"/cubes/plan_BudgetPlanLineItem.rules",
 	"Dimensions@id":
 	[
-		"Dimensions('plan_version')",
-		"Dimensions('plan_business_unit')",
-		"Dimensions('plan_department')",
-		"Dimensions('plan_chart_of_accounts')",
-		"Dimensions('plan_exchange_rates')",
-		"Dimensions('plan_lines')",
-		"Dimensions('plan_time')"
+		{
+			"@odata.id":"Dimensions('plan_version')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_business_unit')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_department')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_chart_of_accounts')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_lines')"
+		},
+		{
+			"@odata.id":"Dimensions('plan_time')"
+		}
 	]
 }
