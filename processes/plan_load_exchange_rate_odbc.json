@@ -1,15 +1,15 @@
 {
 	"Name":"plan_load_exchange_rate_odbc",
-	"PrologProcedure@ink":"/processes/plan_load_exchange_rate_odbc.prolog.ti",
-	"MetadataProcedure@ink":"/processes/plan_load_exchange_rate_odbc.metadata.ti",
-	"DataProcedure@ink":"/processes/plan_load_exchange_rate_odbc.data.ti",
-	"EpilogProcedure@ink":"/processes/plan_load_exchange_rate_odbc.epilog.ti",
+	"PrologProcedure@Code.link":"/processes/plan_load_exchange_rate_odbc.prolog.ti",
+	"MetadataProcedure@Code.link":"/processes/plan_load_exchange_rate_odbc.metadata.ti",
+	"DataProcedure@Code.link":"/processes/plan_load_exchange_rate_odbc.data.ti",
+	"EpilogProcedure@Code.link":"/processes/plan_load_exchange_rate_odbc.epilog.ti",
 	"DataSource":
 	{
 		"Type":"ODBC",
 		"dataSourceNameForClient":"plan_load_data",
 		"dataSourceNameForServer":"plan_load_data",
-		"password":"wgRpyHoOTNJZIgTRIxT9UA==",
+		"password":"EfENYjHw8MXLAaWwxjK19A==",
 		"query":"select * from plan_load_exchange_rates",
 		"userName":"admin",
 		"usesUnicode":false

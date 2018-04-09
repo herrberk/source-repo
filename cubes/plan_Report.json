@@ -1,7 +1,7 @@
 {
 	"Name":"plan_Report",
-	"Rules@ink":"/cubes/plan_Report.rules",
-	"DrillthroughRules@ink":"/cubes/plan_Report.drillthrough.rules",
+	"Rules@Code.link":"/cubes/plan_Report.rules",
+	"DrillthroughRules@Code.link":"/cubes/plan_Report.drillthrough.rules",
 	"Dimensions":
 	[
 		{

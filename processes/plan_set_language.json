@@ -1,9 +1,9 @@
 {
 	"Name":"plan_set_language",
-	"PrologProcedure@ink":"/processes/plan_set_language.prolog.ti",
-	"MetadataProcedure@ink":"/processes/plan_set_language.metadata.ti",
-	"DataProcedure@ink":"/processes/plan_set_language.data.ti",
-	"EpilogProcedure@ink":"/processes/plan_set_language.epilog.ti",
+	"PrologProcedure@Code.link":"/processes/plan_set_language.prolog.ti",
+	"MetadataProcedure@Code.link":"/processes/plan_set_language.metadata.ti",
+	"DataProcedure@Code.link":"/processes/plan_set_language.data.ti",
+	"EpilogProcedure@Code.link":"/processes/plan_set_language.epilog.ti",
 	"DataSource":
 	{
 		"Type":"None"

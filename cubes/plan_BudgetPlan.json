@@ -1,7 +1,7 @@
 {
 	"Name":"plan_BudgetPlan",
-	"Rules@ink":"/cubes/plan_BudgetPlan.rules",
-	"DrillthroughRules@ink":"/cubes/plan_BudgetPlan.drillthrough.rules",
+	"Rules@Code.link":"/cubes/plan_BudgetPlan.rules",
+	"DrillthroughRules@Code.link":"/cubes/plan_BudgetPlan.drillthrough.rules",
 	"Dimensions":
 	[
 		{
