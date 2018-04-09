@@ -1,7 +1,7 @@
 {
   "Name":"plan_BudgetPlanLineItem",
-  "Rules@tm1-source.link":"cubes\\plan_BudgetPlanLineItem.rules",
-  "Dimensions@odata.bind":
+  "Rules@Code.link":"cubes\\plan_BudgetPlanLineItem.rules",
+  "Dimensions@id":
   [
     "Dimensions('plan_version')",
     "Dimensions('plan_business_unit')",

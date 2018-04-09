@@ -31,7 +31,7 @@
       "Type":"Numeric"
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
     "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\actual.json",
     "\\dimensions\\plan_report.hierarchies\\plan_report.subsets\\AllReports.json",

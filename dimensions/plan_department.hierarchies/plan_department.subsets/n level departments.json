@@ -1,6 +1,6 @@
 {
   "Name":"n level departments",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_department')/Hierarchies('plan_department')/Elements('105')",
     "Dimensions('plan_department')/Hierarchies('plan_department')/Elements('110')",

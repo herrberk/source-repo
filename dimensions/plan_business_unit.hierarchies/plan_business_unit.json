@@ -82,11 +82,11 @@
       "Weight":1
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
-    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\All Business Units.json",
-    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\Default.json",
-    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\n level business unit.json",
-    "\\not_a_default_folder\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\TotalBU and Geography.json"
+    "\\dimensions\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\All Business Units.json",
+    "\\dimensions\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\Default.json",
+    "\\dimensions\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\n level business unit.json",
+    "\\dimensions\\plan_business_unit.hierarchies\\plan_business_unit.subsets\\TotalBU and Geography.json"
   ]
 }

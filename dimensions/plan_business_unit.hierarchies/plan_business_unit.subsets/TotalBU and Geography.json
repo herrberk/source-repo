@@ -1,6 +1,6 @@
 {
   "Name":"TotalBU and Geography",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')/Elements('10000')",
     "Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')/Elements('10100')",

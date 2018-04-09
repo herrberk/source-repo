@@ -1,6 +1,6 @@
 {
   "Name":"Default",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",
     "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')",

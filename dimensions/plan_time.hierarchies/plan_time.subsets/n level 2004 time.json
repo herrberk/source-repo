@@ -1,6 +1,6 @@
 {
   "Name":"n level 2004 time",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_time')/Hierarchies('plan_time')/Elements('Jan-2004')",
     "Dimensions('plan_time')/Hierarchies('plan_time')/Elements('Feb-2004')",

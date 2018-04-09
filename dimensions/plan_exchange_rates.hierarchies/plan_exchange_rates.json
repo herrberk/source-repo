@@ -27,7 +27,7 @@
       "Type":"Numeric"
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
     "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\actual.json",
     "\\dimensions\\plan_exchange_rates.hierarchies\\plan_exchange_rates.subsets\\All Exchange Rates.json",

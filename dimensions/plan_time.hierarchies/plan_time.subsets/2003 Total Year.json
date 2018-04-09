@@ -1,6 +1,6 @@
 {
   "Name":"2003 Total Year",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2003')"
   ],

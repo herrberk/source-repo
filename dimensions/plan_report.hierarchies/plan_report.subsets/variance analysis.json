@@ -1,6 +1,6 @@
 {
   "Name":"variance analysis",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')",
     "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')",

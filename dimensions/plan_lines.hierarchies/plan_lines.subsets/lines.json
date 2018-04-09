@@ -1,6 +1,6 @@
 {
   "Name":"lines",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('line 1')",
     "Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('line 2')",

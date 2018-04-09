@@ -1,6 +1,6 @@
 {
   "Name":"n level accounts",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('41101')",
     "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('42201')",

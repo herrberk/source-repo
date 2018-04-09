@@ -1,9 +1,9 @@
 {
   "Name":"plan_load_budget_ascii",
-  "PrologProcedure@tm1-source.link":"processes\\plan_load_budget_ascii.prolog.ti",
-  "MetadataProcedure@tm1-source.link":"processes\\plan_load_budget_ascii.metadata.ti",
-  "DataProcedure@tm1-source.link":"processes\\plan_load_budget_ascii.data.ti",
-  "EpilogProcedure@tm1-source.link":"processes\\plan_load_budget_ascii.epilog.ti",
+  "PrologProcedure@Code.link":"processes\\plan_load_budget_ascii.prolog.ti",
+  "MetadataProcedure@Code.link":"processes\\plan_load_budget_ascii.metadata.ti",
+  "DataProcedure@Code.link":"processes\\plan_load_budget_ascii.data.ti",
+  "EpilogProcedure@Code.link":"processes\\plan_load_budget_ascii.epilog.ti",
   "DataSource":
   {
     "Type":"ASCII",

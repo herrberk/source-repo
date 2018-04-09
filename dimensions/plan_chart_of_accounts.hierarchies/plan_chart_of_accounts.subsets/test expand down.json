@@ -1,6 +1,6 @@
 {
   "Name":"test expand down",
-  "Elements@odata.bind":
+  "Elements@id":
   [
     "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Net Operating Income')",
     "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",

@@ -23,7 +23,7 @@
       "Type":"Numeric"
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
     "\\dimensions\\plan_currency.hierarchies\\plan_currency.subsets\\All Currencies.json",
     "\\dimensions\\plan_currency.hierarchies\\plan_currency.subsets\\All Currency.json",

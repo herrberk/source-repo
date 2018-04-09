@@ -23,7 +23,7 @@
       "Type":"Numeric"
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
     "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\All Versions.json",
     "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\Default.json",

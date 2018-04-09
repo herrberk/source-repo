@@ -379,7 +379,7 @@
       "Weight":-1
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
     "\\dimensions\\plan_chart_of_accounts.hierarchies\\plan_chart_of_accounts.subsets\\Consolidations.json",
     "\\dimensions\\plan_chart_of_accounts.hierarchies\\plan_chart_of_accounts.subsets\\Default.json",

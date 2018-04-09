@@ -1,8 +1,8 @@
 {
   "Name":"plan_Report",
-  "Rules@tm1-source.link":"not_a_default_folder\\plan_Report.rules",
-  "DrillthroughRules@tm1-source.link":"not_a_default_folder\\plan_Report.drillthrough.rules",
-  "Dimensions@odata.bind":
+  "Rules@Code.link":"cubes\\plan_Report.rules",
+  "DrillthroughRules@Code.link":"cubes\\plan_Report.drillthrough.rules",
+  "Dimensions@id":
   [
     "Dimensions('plan_business_unit')",
     "Dimensions('plan_department')",

@@ -100,7 +100,7 @@
       "Weight":1
     }
   ],
-  "Subsets@tm1-source.link":
+  "Subsets@Code.link":
   [
     "\\dimensions\\plan_department.hierarchies\\plan_department.subsets\\All Departments.json",
     "\\dimensions\\plan_department.hierarchies\\plan_department.subsets\\Default.json",
