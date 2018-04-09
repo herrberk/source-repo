@@ -1,8 +1,8 @@
 {
-  "Name":"BudgetTotal",
-  "Elements@id":
-  [
-    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('budget')"
-  ],
-  "Alias":""
+	"Name":"BudgetTotal",
+	"Elements@id":
+	[
+		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('budget')"
+	],
+	"Alias":""
 }

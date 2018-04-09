@@ -1,11 +1,11 @@
 {
-  "Name":"Default",
-  "Elements@id":
-  [
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Operating Expense')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Net Operating Income')"
-  ],
-  "Alias":"AccountName"
+	"Name":"Default",
+	"Elements@id":
+	[
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Operating Expense')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Net Operating Income')"
+	],
+	"Alias":"AccountName"
 }

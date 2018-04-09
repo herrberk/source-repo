@@ -1,5 +1,5 @@
 {
-  "Name":"All Currency Rows",
-  "Expression":"TM1SubsetAll([plan_currency])",
-  "Alias":"CurrencyName"
+	"Name":"All Currency Rows",
+	"Expression":"TM1SubsetAll([plan_currency])",
+	"Alias":"CurrencyName"
 }

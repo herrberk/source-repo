@@ -1,8 +1,8 @@
 {
-  "Name":"TotalLines",
-  "Elements@id":
-  [
-    "Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('All Lines')"
-  ],
-  "Alias":""
+	"Name":"TotalLines",
+	"Elements@id":
+	[
+		"Dimensions('plan_lines')/Hierarchies('plan_lines')/Elements('All Lines')"
+	],
+	"Alias":""
 }

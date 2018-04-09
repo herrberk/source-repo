@@ -1,18 +1,18 @@
 {
-  "Name":"plan_controls",
-  "Elements":
-  [
-    {
-      "Name":"Data Source",
-      "Type":"Numeric"
-    },
-    {
-      "Name":"Corporate Currency",
-      "Type":"Numeric"
-    }
-  ],
-  "Subsets@Code.link":
-  [
-    "\\dimensions\\plan_controls.hierarchies\\plan_controls.subsets\\Default.json"
-  ]
+	"Name":"plan_controls",
+	"Elements":
+	[
+		{
+			"Name":"Data Source",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Currency",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.link":
+	[
+		"/dimensions/plan_controls.hierarchies/plan_controls.subsets/Default.json"
+	]
 }

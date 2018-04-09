@@ -1,8 +1,8 @@
 {
-  "Name":"FY 2004 Budget",
-  "Elements@id":
-  [
-    "Dimensions('plan_version')/Hierarchies('plan_version')/Elements('FY 2004 Budget')"
-  ],
-  "Alias":"VersionName"
+	"Name":"FY 2004 Budget",
+	"Elements@id":
+	[
+		"Dimensions('plan_version')/Hierarchies('plan_version')/Elements('FY 2004 Budget')"
+	],
+	"Alias":"VersionName"
 }

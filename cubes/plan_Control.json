@@ -1,8 +1,8 @@
 {
-  "Name":"plan_Control",
-  "Dimensions@id":
-  [
-    "Dimensions('plan_controls')",
-    "Dimensions('plan_measure_setting')"
-  ]
+	"Name":"plan_Control",
+	"Dimensions@id":
+	[
+		"Dimensions('plan_controls')",
+		"Dimensions('plan_measure_setting')"
+	]
 }

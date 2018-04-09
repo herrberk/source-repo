@@ -1,19 +1,19 @@
 {
-  "Name":"plan_line_item_accounts",
-  "Elements@id":
-  [
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('41101')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('42201')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('51001')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('51003')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Operating Expense')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Other Expenses')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Payroll')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Travel')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Depr & Amort')",
-    "Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Adv & Marketing')"
-  ],
-  "Alias":"AccountName"
+	"Name":"plan_line_item_accounts",
+	"Elements@id":
+	[
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Revenue')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('41101')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('42201')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('COS')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('51001')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('51003')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Operating Expense')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Other Expenses')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Payroll')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Travel')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Depr & Amort')",
+		"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('Adv & Marketing')"
+	],
+	"Alias":"AccountName"
 }

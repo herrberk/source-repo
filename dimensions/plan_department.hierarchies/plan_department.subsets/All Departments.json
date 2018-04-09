@@ -1,5 +1,5 @@
 {
-  "Name":"All Departments",
-  "Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [plan_department] )} ) }",
-  "Alias":"Department"
+	"Name":"All Departments",
+	"Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [plan_department] )} ) }",
+	"Alias":"Department"
 }

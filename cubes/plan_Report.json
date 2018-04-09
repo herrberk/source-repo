@@ -1,14 +1,14 @@
 {
-  "Name":"plan_Report",
-  "Rules@Code.link":"cubes\\plan_Report.rules",
-  "DrillthroughRules@Code.link":"cubes\\plan_Report.drillthrough.rules",
-  "Dimensions@id":
-  [
-    "Dimensions('plan_business_unit')",
-    "Dimensions('plan_department')",
-    "Dimensions('plan_chart_of_accounts')",
-    "Dimensions('plan_exchange_rates')",
-    "Dimensions('plan_report')",
-    "Dimensions('plan_time')"
-  ]
+	"Name":"plan_Report",
+	"Rules@Code.link":"cubes\\plan_Report.rules",
+	"DrillthroughRules@Code.link":"cubes\\plan_Report.drillthrough.rules",
+	"Dimensions@id":
+	[
+		"Dimensions('plan_business_unit')",
+		"Dimensions('plan_department')",
+		"Dimensions('plan_chart_of_accounts')",
+		"Dimensions('plan_exchange_rates')",
+		"Dimensions('plan_report')",
+		"Dimensions('plan_time')"
+	]
 }

@@ -1,5 +1,5 @@
 {
-  "Name":"Default",
-  "Expression":"TM1SubsetAll([plan_department])",
-  "Alias":"Department"
+	"Name":"Default",
+	"Expression":"TM1SubsetAll([plan_department])",
+	"Alias":"Department"
 }

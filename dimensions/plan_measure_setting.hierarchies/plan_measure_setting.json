@@ -1,14 +1,14 @@
 {
-  "Name":"plan_measure_setting",
-  "Elements":
-  [
-    {
-      "Name":"Setting",
-      "Type":"String"
-    }
-  ],
-  "Subsets@Code.link":
-  [
-    "\\dimensions\\plan_measure_setting.hierarchies\\plan_measure_setting.subsets\\Default.json"
-  ]
+	"Name":"plan_measure_setting",
+	"Elements":
+	[
+		{
+			"Name":"Setting",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.link":
+	[
+		"/dimensions/plan_measure_setting.hierarchies/plan_measure_setting.subsets/Default.json"
+	]
 }

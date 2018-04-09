@@ -1,8 +1,8 @@
 {
-  "Name":"actual",
-  "Elements@id":
-  [
-    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('actual')"
-  ],
-  "Alias":""
+	"Name":"actual",
+	"Elements@id":
+	[
+		"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('actual')"
+	],
+	"Alias":""
 }

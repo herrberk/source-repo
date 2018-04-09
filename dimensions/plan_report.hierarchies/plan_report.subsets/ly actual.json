@@ -1,8 +1,8 @@
 {
-  "Name":"ly actual",
-  "Elements@id":
-  [
-    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')"
-  ],
-  "Alias":""
+	"Name":"ly actual",
+	"Elements@id":
+	[
+		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')"
+	],
+	"Alias":""
 }

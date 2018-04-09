@@ -1,10 +1,10 @@
 {
-  "Name":"Adjust Line Goal",
-  "Elements@id":
-  [
-    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')",
-    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('line input')",
-    "Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
-  ],
-  "Alias":"Source"
+	"Name":"Adjust Line Goal",
+	"Elements@id":
+	[
+		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')",
+		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('line input')",
+		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
+	],
+	"Alias":"Source"
 }

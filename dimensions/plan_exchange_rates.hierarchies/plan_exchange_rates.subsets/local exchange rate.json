@@ -1,8 +1,8 @@
 {
-  "Name":"local exchange rate",
-  "Elements@id":
-  [
-    "Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('local')"
-  ],
-  "Alias":""
+	"Name":"local exchange rate",
+	"Elements@id":
+	[
+		"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('local')"
+	],
+	"Alias":""
 }

@@ -1,10 +1,10 @@
 {
-  "Name":"variance analysis",
-  "Elements@id":
-  [
-    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')",
-    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')",
-    "Dimensions('plan_report')/Hierarchies('plan_report')/Elements('Variance')"
-  ],
-  "Alias":"Report"
+	"Name":"variance analysis",
+	"Elements@id":
+	[
+		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')",
+		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')",
+		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('Variance')"
+	],
+	"Alias":"Report"
 }

@@ -1,15 +1,15 @@
 {
-  "Name":"plan_BudgetPlan",
-  "Rules@Code.link":"cubes\\plan_BudgetPlan.rules",
-  "DrillthroughRules@Code.link":"cubes\\plan_BudgetPlan.drillthrough.rules",
-  "Dimensions@id":
-  [
-    "Dimensions('plan_version')",
-    "Dimensions('plan_business_unit')",
-    "Dimensions('plan_department')",
-    "Dimensions('plan_chart_of_accounts')",
-    "Dimensions('plan_exchange_rates')",
-    "Dimensions('plan_source')",
-    "Dimensions('plan_time')"
-  ]
+	"Name":"plan_BudgetPlan",
+	"Rules@Code.link":"cubes\\plan_BudgetPlan.rules",
+	"DrillthroughRules@Code.link":"cubes\\plan_BudgetPlan.drillthrough.rules",
+	"Dimensions@id":
+	[
+		"Dimensions('plan_version')",
+		"Dimensions('plan_business_unit')",
+		"Dimensions('plan_department')",
+		"Dimensions('plan_chart_of_accounts')",
+		"Dimensions('plan_exchange_rates')",
+		"Dimensions('plan_source')",
+		"Dimensions('plan_time')"
+	]
 }

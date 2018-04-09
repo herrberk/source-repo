@@ -1,32 +1,32 @@
 {
-  "Name":"plan_version",
-  "Elements":
-  [
-    {
-      "Name":"FY 2003 Budget",
-      "Type":"Numeric"
-    },
-    {
-      "Name":"FY 2004 Budget",
-      "Type":"Numeric"
-    },
-    {
-      "Name":"FY 2004 Forecast",
-      "Type":"Numeric"
-    },
-    {
-      "Name":"FY 2005 Budget-baseline",
-      "Type":"Numeric"
-    },
-    {
-      "Name":"FY 2005 Budget-upside",
-      "Type":"Numeric"
-    }
-  ],
-  "Subsets@Code.link":
-  [
-    "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\All Versions.json",
-    "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\Default.json",
-    "\\dimensions\\plan_version.hierarchies\\plan_version.subsets\\FY 2004 Budget.json"
-  ]
+	"Name":"plan_version",
+	"Elements":
+	[
+		{
+			"Name":"FY 2003 Budget",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY 2004 Budget",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY 2004 Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY 2005 Budget-baseline",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY 2005 Budget-upside",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.link":
+	[
+		"/dimensions/plan_version.hierarchies/plan_version.subsets/All Versions.json",
+		"/dimensions/plan_version.hierarchies/plan_version.subsets/Default.json",
+		"/dimensions/plan_version.hierarchies/plan_version.subsets/FY 2004 Budget.json"
+	]
 }
