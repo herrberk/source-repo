@@ -2,7 +2,9 @@
 	"Name":"actual",
 	"Elements":
 	[
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')"
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')"
+		}
 	],
 	"Alias":"Report"
 }

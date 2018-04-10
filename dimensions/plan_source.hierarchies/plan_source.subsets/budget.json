@@ -2,7 +2,9 @@
 	"Name":"budget",
 	"Elements":
 	[
-		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('budget')"
+		{
+			"@id":"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('budget')"
+		}
 	],
 	"Alias":""
 }

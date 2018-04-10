@@ -2,7 +2,9 @@
 	"Name":"Last Year",
 	"Elements":
 	[
-		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2003')"
+		{
+			"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2003')"
+		}
 	],
 	"Alias":"Time"
 }

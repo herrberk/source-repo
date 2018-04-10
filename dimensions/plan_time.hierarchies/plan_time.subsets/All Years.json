@@ -2,9 +2,15 @@
 	"Name":"All Years",
 	"Elements":
 	[
-		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2003')",
-		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2004')",
-		"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2005')"
+		{
+			"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2003')"
+		},
+		{
+			"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2004')"
+		},
+		{
+			"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Elements('2005')"
+		}
 	],
 	"Alias":"Time"
 }

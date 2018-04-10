@@ -2,7 +2,9 @@
 	"Name":"Goal",
 	"Elements":
 	[
-		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')"
+		{
+			"@id":"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')"
+		}
 	],
 	"Alias":"Source"
 }

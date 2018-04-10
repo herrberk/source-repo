@@ -2,9 +2,15 @@
 	"Name":"Adjust Line Goal",
 	"Elements":
 	[
-		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')",
-		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('line input')",
-		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
+		{
+			"@id":"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('goal')"
+		},
+		{
+			"@id":"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('line%20input')"
+		},
+		{
+			"@id":"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
+		}
 	],
 	"Alias":"Source"
 }

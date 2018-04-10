@@ -2,7 +2,9 @@
 	"Name":"ly actual",
 	"Elements":
 	[
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')"
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly%20actual')"
+		}
 	],
 	"Alias":""
 }

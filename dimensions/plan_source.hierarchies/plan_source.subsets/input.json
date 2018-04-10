@@ -2,7 +2,9 @@
 	"Name":"input",
 	"Elements":
 	[
-		"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
+		{
+			"@id":"Dimensions('plan_source')/Hierarchies('plan_source')/Elements('input')"
+		}
 	],
 	"Alias":""
 }

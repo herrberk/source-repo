@@ -2,9 +2,15 @@
 	"Name":"variance analysis",
 	"Elements":
 	[
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')",
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')",
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('Variance')"
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')"
+		},
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('actual')"
+		},
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('Variance')"
+		}
 	],
 	"Alias":"Report"
 }

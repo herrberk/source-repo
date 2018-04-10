@@ -2,14 +2,30 @@
 	"Name":"Dy Nlevel Dept",
 	"Elements":
 	[
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('415')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('105')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('300')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('405')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('110')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('410')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('200')",
-		"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('115')"
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('415')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('105')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('300')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('405')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('110')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('410')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('200')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('115')"
+		}
 	],
 	"Alias":"Department"
 }

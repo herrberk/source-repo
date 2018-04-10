@@ -2,9 +2,15 @@
 	"Name":"Budget,LYBudget,LYActuals",
 	"Elements":
 	[
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')",
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly budget')",
-		"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly actual')"
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')"
+		},
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly%20budget')"
+		},
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('ly%20actual')"
+		}
 	],
 	"Alias":"Report"
 }
