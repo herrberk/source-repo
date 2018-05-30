@@ -1,5 +1,17 @@
 [
 	{
+		"Name":"3dim",
+		"AllLeavesHierarchyName":"",
+		"DefaultHierarchy":
+		{
+			"@id":"Dimensions('3dim')/Hierarchies('3dim')"
+		},
+		"Hierarchies@Code.link":
+		[
+			"3dim.hierarchies/3dim.json"
+		]
+	},
+	{
 		"Name":"dim1",
 		"AllLeavesHierarchyName":"",
 		"DefaultHierarchy":

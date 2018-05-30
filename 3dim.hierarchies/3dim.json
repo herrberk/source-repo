@@ -1,0 +1,21 @@
+{
+	"Name":"3dim",
+	"Elements":
+	[
+		{
+			"Name":"fda",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"fdasa",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":[
+		{
+			"ParentName":"fda",
+			"ComponentName":"fdasa",
+			"Weight":1
+		}],
+	"Subsets@Code.link":[]
+}
