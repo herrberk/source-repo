@@ -1,9 +1,6 @@
 {
 	"Name":"Proc1",
 	"PrologProcedure@Code.link":"Proc1.prolog.ti",
-	"MetadataProcedure@Code.link":"Proc1.metadata.ti",
-	"DataProcedure@Code.link":"Proc1.data.ti",
-	"EpilogProcedure@Code.link":"Proc1.epilog.ti",
 	"DataSource":
 	{
 		"Type":"TM1CubeView",

@@ -1,9 +1,7 @@
 {
 	"Name":"Proc2",
-	"PrologProcedure@Code.link":"Proc2.prolog.ti",
-	"MetadataProcedure@Code.link":"Proc2.metadata.ti",
-	"DataProcedure@Code.link":"Proc2.data.ti",
-	"EpilogProcedure@Code.link":"Proc2.epilog.ti",
+	"PrologProcedure@Code.link":"Proc1.prolog.ti",
+	"EpilogProcedure@Code.link":"Proc1.epilog.ti",
 	"DataSource":
 	{
 		"Type":"None"

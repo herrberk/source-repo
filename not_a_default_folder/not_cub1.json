@@ -1,7 +1,6 @@
 {
 	"Name":"not_cub1",
 	"Rules@Code.link":"not_cub1.rules",
-	"DrillthroughRules@Code.link":"not_cub1.drillthrough.rules",
 	"Dimensions":
 	[
 		{
@@ -13,6 +12,6 @@
 	],
 	"Views@Code.link":
 	[
-		"not_cub1.views/c1v1.json"
+		"../all_views/c1v1.json"
 	]
 }
