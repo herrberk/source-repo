@@ -1,0 +1,27 @@
+
+#****Begin: Generated Statements***
+OldCubeLogChanges = CUBEGETLOGCHANGES('plan_Report');
+CUBESETLOGCHANGES('plan_Report', 0);
+#****End: Generated Statements****
+
+#PStartDate
+## Get Start Date (YY-MM-DD)
+VStartYear=subst(PstartDate,9,2);
+VStartMonth=subst(PstartDate,1,2);
+VStartDay=subst(PstartDate,4,2);
+
+VStartDate=(VstartYear|'-'|VstartMonth|'-'|VstartDay);
+ZStartDate=DAYNO(VstartDate);
+
+#PEndDate
+## Get End Date (YY-MM-DD)
+VEndYear=subst(PEndDate,9,2);
+VEndMonth=subst(PEndDate,1,2);
+VEndDay=subst(PEndDate,4,2);
+
+VEndDate=(VEndYear|'-'|VEndMonth|'-'|VEndDay);
+ZEndDate=DAYNO(VEndDate);
+
+
+
+

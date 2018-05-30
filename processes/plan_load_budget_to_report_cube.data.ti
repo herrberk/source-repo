@@ -1,0 +1,5 @@
+
+#****Begin: Generated Statements***
+if (VALUE_IS_STRING=1, CellPutS(SVALUE,'plan_Report',plan_business_unit,plan_department,plan_chart_of_accounts,plan_exchange_rates,plan_source,plan_ti
+me), CellPutN(NVALUE, 'plan_Report', plan_business_unit,plan_department,plan_chart_of_accounts,plan_exchange_rates,plan_source,plan_time));
+#****End: Generated Statements****

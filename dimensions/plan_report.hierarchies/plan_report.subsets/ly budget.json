@@ -1,0 +1,4 @@
+{
+	"Name":"ly budget",
+	"Expression":"TM1SubsetAll([plan_report])"
+}

@@ -1,0 +1,30 @@
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+LastIndx=DIMSIZ('plan_chart_of_accounts');
+IndxCount=1;
+
+While(IndxCount <= LastIndx);
+VElement=DIMNM('plan_chart_of_accounts', IndxCount);
+
+## Get The Account Attribute value
+VAttValue=ATTRS('plan_chart_of_accounts', VElement, 'FormatGroup');
+
+IF(VAttValue@<>'');
+
+## Check that the Attribute Value Exist as an element in the plan format;
+IF(DIMIX('plan_format_template',VAttValue)>0);
+
+VNewValue=ATTRS('plan_format_template',VAttValue,'FormatGroup');
+
+
+IF(VNewValue @<> '');
+AttrPutS(VNewValue, 'plan_chart_of_accounts', VElement, 'FormatGroup');
+ENDIF;
+endif;
+endif;
+
+IndxCount=IndxCount+1;
+
+end;

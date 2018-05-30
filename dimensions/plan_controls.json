@@ -1,0 +1,12 @@
+{
+	"Name":"plan_controls",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('plan_controls')/Hierarchies('plan_controls')"
+	},
+	"Hierarchies@Code.link":
+	[
+		"plan_controls.hierarchies/plan_controls.json"
+	]
+}

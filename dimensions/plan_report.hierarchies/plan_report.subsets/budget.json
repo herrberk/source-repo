@@ -1,0 +1,9 @@
+{
+	"Name":"budget",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Elements('budget')"
+		}
+	]
+}

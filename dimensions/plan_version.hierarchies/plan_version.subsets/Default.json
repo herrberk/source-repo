@@ -1,0 +1,4 @@
+{
+	"Name":"Default",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL( [plan_version] )}, 0)}"
+}

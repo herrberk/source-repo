@@ -1,9 +1,0 @@
-{
-	"Name":"sub2",
-	"Elements":
-	[
-		{
-			"@id":"Dimensions('dim1')/Hierarchies('dim1')/Elements('elem1')"
-		}
-	]
-}
