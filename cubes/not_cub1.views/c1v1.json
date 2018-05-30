@@ -1,0 +1,32 @@
+{
+	"@type":"NativeView",
+	"Name":"c1v1",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('dim2')/Hierarchies('dim2')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('dim2')/Hierarchies('dim2')/Elements('elem2')"
+					}
+				]
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('dim1')/Hierarchies('dim1')/Subsets('sub1')"
+			}
+		}
+	],
+	"Titles":[]
+}

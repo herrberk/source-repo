@@ -1,5 +1,0 @@
-{
-	"Name":"All Currency",
-	"Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [plan_currency] )} ) }",
-	"Alias":""
-}

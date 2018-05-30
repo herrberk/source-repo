@@ -1,5 +1,0 @@
-{
-	"Name":"All Versions",
-	"Expression":"{TM1FILTERBYLEVEL( { HIERARCHIZE( {TM1SUBSETALL( [plan_version] )} ) }, 0)}",
-	"Alias":"VersionName"
-}

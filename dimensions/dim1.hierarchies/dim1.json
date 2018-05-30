@@ -1,0 +1,18 @@
+{
+	"Elements":
+	[
+		{
+			"Name":"elem3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"elem1",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.link":
+	[
+		"dim1.subsets/sub1.json",
+		"dim1.subsets/sub2.json"
+	]
+}
