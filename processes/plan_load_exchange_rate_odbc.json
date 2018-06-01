@@ -11,7 +11,7 @@
 		"Type":"ODBC",
 		"dataSourceNameForClient":"plan_load_data",
 		"dataSourceNameForServer":"plan_load_data",
-		"password":"+cWnGdjUQMcfZcaX8wIyxA==",
+		"password":"I8JOHZOVohcDsJ4GmaYNZQ==",
 		"query":"select * from plan_load_exchange_rates",
 		"userName":"admin",
 		"usesUnicode":false
