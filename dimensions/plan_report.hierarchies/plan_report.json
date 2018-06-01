@@ -1,32 +1,40 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_report",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"ly budget",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"ly actual",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"budget",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"actual",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Variance",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"ly budget v budget variance",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"ly actual v actual variance",
 			"Type":"Numeric"
 		}

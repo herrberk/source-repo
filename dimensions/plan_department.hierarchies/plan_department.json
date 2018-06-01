@@ -1,48 +1,60 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_department",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"1000",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"100",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"105",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"110",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"115",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"200",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"300",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"400",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"405",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"410",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"415",
 			"Type":"Numeric"
 		}
@@ -50,51 +62,61 @@
 	"Edges":
 	[
 		{
+			"@type":"Edge",
 			"ParentName":"1000",
 			"ComponentName":"100",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"1000",
 			"ComponentName":"200",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"1000",
 			"ComponentName":"300",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"1000",
 			"ComponentName":"400",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"100",
 			"ComponentName":"105",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"100",
 			"ComponentName":"110",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"100",
 			"ComponentName":"115",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"400",
 			"ComponentName":"405",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"400",
 			"ComponentName":"410",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"400",
 			"ComponentName":"415",
 			"Weight":1

@@ -1,4 +1,5 @@
 {
+	"@type":"Process",
 	"Name":"plan_load_budget_ascii",
 	"PrologProcedure@Code.link":"plan_load_budget_ascii.prolog.ti",
 	"MetadataProcedure@Code.link":"plan_load_budget_ascii.metadata.ti",
@@ -6,6 +7,7 @@
 	"EpilogProcedure@Code.link":"plan_load_budget_ascii.epilog.ti",
 	"DataSource":
 	{
+		"@type":"ProcessDataSource",
 		"Type":"ASCII",
 		"asciiDecimalSeparator":".",
 		"asciiDelimiterChar":",",
@@ -19,18 +21,21 @@
 	"Parameters":
 	[
 		{
+			"@type":"ProcessParameter",
 			"Name":"PVersion",
 			"Prompt":"Which Version?",
 			"Value":"FY 2003 Budget",
 			"Type":"String"
 		},
 		{
+			"@type":"ProcessParameter",
 			"Name":"PStartDate",
 			"Prompt":"Budget Start Date?",
 			"Value":"Jan-2003",
 			"Type":"String"
 		},
 		{
+			"@type":"ProcessParameter",
 			"Name":"PEndDate",
 			"Prompt":"Budget End Date?",
 			"Value":"Dec-2003",
@@ -40,6 +45,7 @@
 	"Variables":
 	[
 		{
+			"@type":"ProcessVariable",
 			"Name":"V1",
 			"Type":"String",
 			"Position":1,
@@ -47,6 +53,7 @@
 			"EndByte":0
 		},
 		{
+			"@type":"ProcessVariable",
 			"Name":"Dept",
 			"Type":"String",
 			"Position":2,
@@ -54,6 +61,7 @@
 			"EndByte":0
 		},
 		{
+			"@type":"ProcessVariable",
 			"Name":"BU",
 			"Type":"String",
 			"Position":3,
@@ -61,6 +69,7 @@
 			"EndByte":0
 		},
 		{
+			"@type":"ProcessVariable",
 			"Name":"Account",
 			"Type":"String",
 			"Position":4,
@@ -68,6 +77,7 @@
 			"EndByte":0
 		},
 		{
+			"@type":"ProcessVariable",
 			"Name":"Value",
 			"Type":"Numeric",
 			"Position":5,

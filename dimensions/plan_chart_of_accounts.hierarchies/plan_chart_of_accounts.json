@@ -1,172 +1,215 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_chart_of_accounts",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"41101",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"42201",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Revenue",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"51001",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"51003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"COS",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"61010",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"61015",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"61030",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"61065",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"61080",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"61095",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64055",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64060",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64065",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64070",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64090",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64100",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"66005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"66010",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"67010",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"67015",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Other Expenses",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"61060",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"61070",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"62001",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Payroll",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"63040",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Travel",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"64005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"64020",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Depr & Amort",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"65005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"65006",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"65015",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"65018",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"65020",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"65022",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"65035",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Adv & Marketing",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Operating Expense",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Net Operating Income",
 			"Type":"Consolidated"
 		}
@@ -174,206 +217,247 @@
 	"Edges":
 	[
 		{
+			"@type":"Edge",
 			"ParentName":"Revenue",
 			"ComponentName":"41101",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Revenue",
 			"ComponentName":"42201",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"COS",
 			"ComponentName":"51001",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"COS",
 			"ComponentName":"51003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"61010",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"61015",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"61030",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"61065",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"61080",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"61095",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"64055",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"64060",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"64065",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"64070",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"64090",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"64100",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"66005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"66010",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"67010",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Other Expenses",
 			"ComponentName":"67015",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Payroll",
 			"ComponentName":"61060",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Payroll",
 			"ComponentName":"61070",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Payroll",
 			"ComponentName":"62001",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Travel",
 			"ComponentName":"63040",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Depr & Amort",
 			"ComponentName":"64005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Depr & Amort",
 			"ComponentName":"64020",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65006",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65015",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65018",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65020",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65022",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Adv & Marketing",
 			"ComponentName":"65035",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Operating Expense",
 			"ComponentName":"Other Expenses",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Operating Expense",
 			"ComponentName":"Payroll",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Operating Expense",
 			"ComponentName":"Travel",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Operating Expense",
 			"ComponentName":"Depr & Amort",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Operating Expense",
 			"ComponentName":"Adv & Marketing",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Net Operating Income",
 			"ComponentName":"Revenue",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Net Operating Income",
 			"ComponentName":"COS",
 			"Weight":-1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Net Operating Income",
 			"ComponentName":"Operating Expense",
 			"Weight":-1

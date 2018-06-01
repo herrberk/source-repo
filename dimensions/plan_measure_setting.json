@@ -1,4 +1,5 @@
 {
+	"@type":"Dimension",
 	"Name":"plan_measure_setting",
 	"AllLeavesHierarchyName":"",
 	"DefaultHierarchy":

@@ -3,8 +3,10 @@
 	"Columns":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_time')/Hierarchies('plan_time')"
@@ -54,8 +56,10 @@
 	"Rows":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')"
@@ -84,8 +88,10 @@
 			}
 		},
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_department')/Hierarchies('plan_department')"
@@ -120,8 +126,10 @@
 			}
 		},
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')"
@@ -234,8 +242,10 @@
 	"Titles":
 	[
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_version')/Hierarchies('plan_version')"
@@ -265,8 +275,10 @@
 			}
 		},
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')"
@@ -299,8 +311,10 @@
 			}
 		},
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_source')/Hierarchies('plan_source')"

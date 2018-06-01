@@ -1,28 +1,35 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_exchange_rates",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"local",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"beginning",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"ending",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"planning",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"spot",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"actual",
 			"Type":"Numeric"
 		}

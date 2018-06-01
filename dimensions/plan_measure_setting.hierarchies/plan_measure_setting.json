@@ -1,8 +1,10 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_measure_setting",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"Setting",
 			"Type":"String"
 		}

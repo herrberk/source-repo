@@ -1,4 +1,5 @@
 {
+	"@type":"Cube",
 	"Name":"plan_BudgetPlanLineItem",
 	"Rules@Code.link":"plan_BudgetPlanLineItem.rules",
 	"Dimensions":

@@ -1,212 +1,265 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_time",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"Description",
 			"Type":"String"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q1-2005",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jan-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Feb-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Mar-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q2-2005",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Apr-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"May-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jun-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q3-2005",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jul-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Aug-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Sep-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q4-2005",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Oct-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Nov-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Dec-2005",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"2003",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q1-2003",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jan-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Feb-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Mar-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q2-2003",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Apr-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"May-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jun-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q3-2003",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jul-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Aug-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Sep-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q4-2003",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Oct-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Nov-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Dec-2003",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q1-2004",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jan-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Feb-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Mar-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q2-2004",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Apr-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"May-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jun-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q3-2004",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Jul-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Aug-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Sep-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Q4-2004",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"Oct-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Nov-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Dec-2004",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"2004",
 			"Type":"Consolidated"
 		},
 		{
+			"@type":"Element",
 			"Name":"2005",
 			"Type":"Consolidated"
 		}
@@ -214,241 +267,289 @@
 	"Edges":
 	[
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2005",
 			"ComponentName":"Jan-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2005",
 			"ComponentName":"Feb-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2005",
 			"ComponentName":"Mar-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2005",
 			"ComponentName":"Apr-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2005",
 			"ComponentName":"May-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2005",
 			"ComponentName":"Jun-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2005",
 			"ComponentName":"Jul-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2005",
 			"ComponentName":"Aug-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2005",
 			"ComponentName":"Sep-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2005",
 			"ComponentName":"Oct-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2005",
 			"ComponentName":"Nov-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2005",
 			"ComponentName":"Dec-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2003",
 			"ComponentName":"Q1-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2003",
 			"ComponentName":"Q2-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2003",
 			"ComponentName":"Q3-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2003",
 			"ComponentName":"Q4-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2003",
 			"ComponentName":"Jan-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2003",
 			"ComponentName":"Feb-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2003",
 			"ComponentName":"Mar-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2003",
 			"ComponentName":"Apr-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2003",
 			"ComponentName":"May-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2003",
 			"ComponentName":"Jun-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2003",
 			"ComponentName":"Jul-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2003",
 			"ComponentName":"Aug-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2003",
 			"ComponentName":"Sep-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2003",
 			"ComponentName":"Oct-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2003",
 			"ComponentName":"Nov-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2003",
 			"ComponentName":"Dec-2003",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2004",
 			"ComponentName":"Jan-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2004",
 			"ComponentName":"Feb-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q1-2004",
 			"ComponentName":"Mar-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2004",
 			"ComponentName":"Apr-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2004",
 			"ComponentName":"May-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q2-2004",
 			"ComponentName":"Jun-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2004",
 			"ComponentName":"Jul-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2004",
 			"ComponentName":"Aug-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q3-2004",
 			"ComponentName":"Sep-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2004",
 			"ComponentName":"Oct-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2004",
 			"ComponentName":"Nov-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"Q4-2004",
 			"ComponentName":"Dec-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2004",
 			"ComponentName":"Q1-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2004",
 			"ComponentName":"Q2-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2004",
 			"ComponentName":"Q3-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2004",
 			"ComponentName":"Q4-2004",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2005",
 			"ComponentName":"Q1-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2005",
 			"ComponentName":"Q2-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2005",
 			"ComponentName":"Q3-2005",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"2005",
 			"ComponentName":"Q4-2005",
 			"Weight":1

@@ -3,6 +3,7 @@
 	"Columns":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Subsets('plan_time_month')"
@@ -12,8 +13,10 @@
 	"Rows":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_currency')/Hierarchies('plan_currency')"
@@ -39,8 +42,10 @@
 			}
 		},
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')"

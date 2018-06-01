@@ -4,8 +4,10 @@
 	"Rows":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
+				"@type":"Subset",
 				"Hierarchy":
 				{
 					"@id":"Dimensions('plan_currency')/Hierarchies('plan_currency')"
@@ -31,12 +33,14 @@
 			}
 		},
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Subsets('plan exchange rates not local')"
 			}
 		},
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Subsets('n level 2005 time')"

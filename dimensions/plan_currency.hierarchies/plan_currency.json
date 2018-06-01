@@ -1,24 +1,30 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_currency",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"JPY",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"EUR",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"USD",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"GBP",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"AUD",
 			"Type":"Numeric"
 		}

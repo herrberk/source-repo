@@ -1,4 +1,5 @@
 {
+	"@type":"Cube",
 	"Name":"plan_BudgetPlan",
 	"Rules@Code.link":"plan_BudgetPlan.rules",
 	"DrillthroughRules@Code.link":"plan_BudgetPlan.drillthrough.rules",

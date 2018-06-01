@@ -1,12 +1,15 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_controls",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"Data Source",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"Corporate Currency",
 			"Type":"Numeric"
 		}

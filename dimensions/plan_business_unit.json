@@ -1,4 +1,5 @@
 {
+	"@type":"Dimension",
 	"Name":"plan_business_unit",
 	"AllLeavesHierarchyName":"",
 	"DefaultHierarchy":

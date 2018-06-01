@@ -3,6 +3,7 @@
 	"Columns":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_report')/Hierarchies('plan_report')/Subsets('plan_exec_report')"
@@ -12,6 +13,7 @@
 	"Rows":
 	[
 		{
+			"@type":"ViewAxisSelection",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Subsets('Dy Nlevel Dept')"
@@ -21,6 +23,7 @@
 	"Titles":
 	[
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Subsets('plan_top_level_accts')"
@@ -31,6 +34,7 @@
 			}
 		},
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_business_unit')/Hierarchies('plan_business_unit')/Subsets('All Business Units')"
@@ -41,6 +45,7 @@
 			}
 		},
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_time')/Hierarchies('plan_time')/Subsets('2004 Total')"
@@ -51,6 +56,7 @@
 			}
 		},
 		{
+			"@type":"ViewTitle",
 			"Subset":
 			{
 				"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Subsets('actual')"

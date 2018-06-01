@@ -1,28 +1,35 @@
 {
+	"@type":"Hierarchy",
 	"Name":"plan_lines",
 	"Elements":
 	[
 		{
+			"@type":"Element",
 			"Name":"line 1",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"line 2",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"line 3",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"line 4",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"line 5",
 			"Type":"Numeric"
 		},
 		{
+			"@type":"Element",
 			"Name":"All Lines",
 			"Type":"Consolidated"
 		}
@@ -30,26 +37,31 @@
 	"Edges":
 	[
 		{
+			"@type":"Edge",
 			"ParentName":"All Lines",
 			"ComponentName":"line 1",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"All Lines",
 			"ComponentName":"line 2",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"All Lines",
 			"ComponentName":"line 3",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"All Lines",
 			"ComponentName":"line 4",
 			"Weight":1
 		},
 		{
+			"@type":"Edge",
 			"ParentName":"All Lines",
 			"ComponentName":"line 5",
 			"Weight":1

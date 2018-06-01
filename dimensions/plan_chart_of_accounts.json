@@ -1,4 +1,5 @@
 {
+	"@type":"Dimension",
 	"Name":"plan_chart_of_accounts",
 	"AllLeavesHierarchyName":"",
 	"DefaultHierarchy":

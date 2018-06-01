@@ -1,4 +1,5 @@
 {
+	"@type":"Process",
 	"Name":"plan_set_language",
 	"PrologProcedure@Code.link":"plan_set_language.prolog.ti",
 	"MetadataProcedure@Code.link":"plan_set_language.metadata.ti",
@@ -6,11 +7,13 @@
 	"EpilogProcedure@Code.link":"plan_set_language.epilog.ti",
 	"DataSource":
 	{
+		"@type":"ProcessDataSource",
 		"Type":"None"
 	},
 	"Parameters":
 	[
 		{
+			"@type":"ProcessParameter",
 			"Name":"pLanguage",
 			"Prompt":"Language (German",
 			"Value":"English",
