@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Ordered",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('dim2')/Hierarchies('dim2')/Elements('X')"
+		},
+		{
+			"@id":"Dimensions('dim2')/Hierarchies('dim2')/Elements('Y')"
+		},
+		{
+			"@id":"Dimensions('dim2')/Hierarchies('dim2')/Elements('Z')"
+		}
+	]
+}

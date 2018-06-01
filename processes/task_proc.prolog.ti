@@ -1,0 +1,7 @@
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+dir = 'C:\TM1\Defects\Story71947\dumps\';
+path = dir|FN;
+ASCIIOutput(path, 'task writing');

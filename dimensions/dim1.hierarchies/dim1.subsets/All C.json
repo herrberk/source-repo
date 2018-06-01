@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"All C",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('dim1')/Hierarchies('dim1')/Elements('C')"
+		},
+		{
+			"@id":"Dimensions('dim1')/Hierarchies('dim1')/Elements('CA')"
+		},
+		{
+			"@id":"Dimensions('dim1')/Hierarchies('dim1')/Elements('CB')"
+		}
+	]
+}

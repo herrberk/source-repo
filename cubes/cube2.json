@@ -1,0 +1,18 @@
+{
+	"@type":"Cube",
+	"Name":"cube2",
+	"Rules@Code.link":"cube2.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('dim2')"
+		},
+		{
+			"@id":"Dimensions('dim1')"
+		}
+	],
+	"Views@Code.link":
+	[
+		"cube2.views/Some Calc.json"
+	]
+}

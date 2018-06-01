@@ -1,0 +1,30 @@
+{
+	"Name":"Some Calc",
+	"Columns":[],
+	"Rows":[],
+	"Titles":
+	[
+		{
+			"@type":"ViewTitle",
+			"Subset":
+			{
+				"@id":"Dimensions('dim1')/Hierarchies('dim1')/Subsets('All C')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('dim1')/Hierarchies('dim1')/Elements('C')"
+			}
+		},
+		{
+			"@type":"ViewTitle",
+			"Subset":
+			{
+				"@id":"Dimensions('dim2')/Hierarchies('dim2')/Subsets('Ordered')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('dim2')/Hierarchies('dim2')/Elements('X')"
+			}
+		}
+	]
+}

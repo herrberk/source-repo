@@ -1,0 +1,21 @@
+{
+	"@type":"Process",
+	"Name":"task_proc",
+	"PrologProcedure@Code.link":"task_proc.prolog.ti",
+	"DataSource":
+	{
+		"@type":"ProcessDataSource",
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"@type":"ProcessParameter",
+			"Name":"FN",
+			"Prompt":"",
+			"Value":"def.txt",
+			"Type":"String"
+		}
+	],
+	"Variables":[]
+}

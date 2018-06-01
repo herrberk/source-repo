@@ -1,0 +1,26 @@
+{
+	"@type":"Hierarchy",
+	"Name":"dim2",
+	"Elements":
+	[
+		{
+			"@type":"Element",
+			"Name":"Z",
+			"Type":"Numeric"
+		},
+		{
+			"@type":"Element",
+			"Name":"X",
+			"Type":"Numeric"
+		},
+		{
+			"@type":"Element",
+			"Name":"Y",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.link":
+	[
+		"dim2.subsets/Ordered.json"
+	]
+}
