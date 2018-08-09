@@ -1,0 +1,20 @@
+#****SECTION PROLOG****
+#****GENERATED STATEMENTS START****
+OldCubeLogChanges = CUBEGETLOGCHANGES('plan_BudgetPlan');
+CUBESETLOGCHANGES('plan_BudgetPlan', 0);
+#****GENERATED STATEMENTS FINISH****
+#****SECTION METADATA****
+#****GENERATED STATEMENTS START****
+#****GENERATED STATEMENTS FINISH****
+#****SECTION DATA****
+#****GENERATED STATEMENTS START****
+vMonth=subst(plan_time, 1, 7) | '3';
+vVersion='FY 2003 Budget';
+if (VALUE_IS_STRING=1, CellPutS(SVALUE,'plan_BudgetPlan',vVersion,plan_business_unit,plan_department,plan_chart_of_accounts,plan_exchange_rates,plan_s
+ource,vMonth), CellPutN(NVALUE, 'plan_BudgetPlan', vVersion,plan_business_unit,plan_department,plan_chart_of_accounts,plan_exchange_rates,plan_source,
+vMonth));
+#****GENERATED STATEMENTS FINISH****
+#****SECTION EPILOG****
+#****GENERATED STATEMENTS START****
+CUBESETLOGCHANGES('plan_BudgetPlan', OldCubeLogChanges);
+#****GENERATED STATEMENTS FINISH****
