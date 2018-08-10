@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"stat_test_sub1",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('100')"
+		},
+		{
+			"@id":"Dimensions('plan_department')/Hierarchies('plan_department')/Elements('400')"
+		}
+	]
+}
