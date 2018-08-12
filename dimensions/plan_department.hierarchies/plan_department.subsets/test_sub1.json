@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"test_sub1",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL(plan_department)}, 1)}"
-}
